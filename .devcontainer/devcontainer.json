@@ -42,8 +42,9 @@
 		"vscode": {
 		  "extensions": [
 			"dbaeumer.vscode-eslint",
-			"EditorConfig.EditorConfig"
-		  ]
+			"EditorConfig.EditorConfig",
+			"redjue.git-commit-plugin"
+		]
 		}
 	  }
 
